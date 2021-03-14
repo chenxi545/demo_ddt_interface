@@ -7,7 +7,7 @@
    - do_mysql.py 封装操作mysql的方法
    - http_requests.py 封装接口发送请求的方法
    - logger.py 封装日志的方法
-   - read_excel.py 封装读取excel用例的方法，**注意文件要ecxel文件仅支持.xlsx格式**
+   - read_excel.py 封装读取excel用例的方法，**注意excel文件仅支持.xlsx格式**
    - replace.py 封装正则方法，替换用例中的变量值
    - send_email.py 封装发送邮件方法
 - conf:配置文件存放
